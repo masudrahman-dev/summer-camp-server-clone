@@ -1,0 +1,13 @@
+[
+  {
+    "className": "Class 1",
+    "classImage": "image1.jpg",
+    "instructorName": "John Doe",
+    "instructorEmail": "john.doe@example.com",
+    "availableSeats": 10,
+    "price": 50,
+    "status": "pending",
+    "totalEnrolledStudents": 0,
+    "feedback": ""
+  }
+]
